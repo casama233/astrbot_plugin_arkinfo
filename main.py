@@ -93,7 +93,7 @@ class AknInfoPlugin(Star):
             return
 
 
-    @filter.command("akndr", alias={'akndr', 'akngq', 'aknen', 'aknst'})
+    @filter.command("akndr", alias={'akngq', 'aknen', 'aknst'})
     async def dr(self, event: AstrMessageEvent, name: str):
         """查询关卡，敌人信息"""
         try:
