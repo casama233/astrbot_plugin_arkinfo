@@ -1,1 +1,5 @@
 __pycache__
+
+# Keep local runtime credentials and generated artifacts out of source control.
+*.pyc
+*.pyo
