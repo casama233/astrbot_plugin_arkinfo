@@ -40,3 +40,11 @@
 [2]: https://prts.wiki/w/%E9%A6%96%E9%A1%B5 "PRTS WIKI 首页"
 
 [3]: https://prts.wiki/api.php "PRTS WIKI API页面"
+
+## 上游來源與授權
+
+This repository is a fork of the upstream project. The upstream AGPL-3.0 license and its applicable notices must be preserved; this fork does not claim the upstream work as newly authored.
+
+- 上游專案：[wxgl/astrbot_plugin_arkinfo](https://github.com/wxgl/astrbot_plugin_arkinfo)
+- 上游授權狀態：AGPL-3.0
+- 本倉庫保留上游來源脈絡；請勿將本倉庫的新增修改誤認為上游作者的作品，也勿將本倉庫授權擴張到第三方素材、資料或依賴。
