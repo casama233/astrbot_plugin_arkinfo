@@ -1,4 +1,6 @@
 # ark_info_search
+
+**简体中文** · [繁體中文](README.zh-TW.md) · [English](README.en.md)
 基于作者的项目改版
 本人为高中生，编写代码的时间并不多，一部分使用AI辅助完成。
 个人获取明日方舟 PRTS WIKI 信息的尝试，使用原生的 Media API 调用，目的给astrbot添加明日方舟信息查询功能
